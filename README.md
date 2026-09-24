@@ -10,7 +10,7 @@ Nesse repositório vou gravar meu progresso no Curso de C#
 - Declaração e tipo de variáveis.
 - Entrada e saída de dados.
 - Condicionais. (if, else, switch)
-- Laços de repetição. (for, while, do while)
+- Laços de repetição. (for, while, do while, flags)
 - Arrays
 - Foreach
 - Constantes
@@ -19,8 +19,9 @@ Nesse repositório vou gravar meu progresso no Curso de C#
 - Switch
 
 ### Exercícios
-- 1. Sequências Básicas
-- 2. Condicionais
-- 3. Utilizando Random
+1. Sequências Básicas
+2. Condicionais
+3. Utilizando Random
+4. Flags
 
 Obs.: Os exercícios foram feitos por mim sem copiar nem colar por isso talvez a lógica não esteja tão coerente.
