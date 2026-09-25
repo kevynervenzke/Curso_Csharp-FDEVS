@@ -23,5 +23,6 @@ Nesse repositório vou gravar meu progresso no Curso de C#
 2. Condicionais
 3. Utilizando Random
 4. Flags
+5. Do While
 
 Obs.: Os exercícios foram feitos por mim sem copiar nem colar por isso talvez a lógica não esteja tão coerente.
